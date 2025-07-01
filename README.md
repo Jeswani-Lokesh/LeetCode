@@ -20,11 +20,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0242-valid-anagram) |
 | [0782-jewels-and-stones](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0782-jewels-and-stones) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0242-valid-anagram) |
 ## Tree
 |  |
 | ------- |
@@ -44,5 +46,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0242-valid-anagram) |
 | [0782-jewels-and-stones](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0782-jewels-and-stones) |
 <!---LeetCode Topics End-->
