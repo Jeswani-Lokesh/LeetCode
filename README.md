@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0001-two-sum) |
+| [0088-merge-sorted-array](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0217-contains-duplicate) |
 | [2350-find-closest-number-to-zero](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/2350-find-closest-number-to-zero) |
 ## Hash Table
@@ -27,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0242-valid-anagram) |
 ## Tree
@@ -55,4 +57,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0009-palindrome-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
