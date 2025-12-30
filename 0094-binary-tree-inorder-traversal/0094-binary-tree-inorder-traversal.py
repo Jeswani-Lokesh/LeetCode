@@ -7,14 +7,21 @@
 class Solution:
     def inorderTraversal(self, root: Optional[TreeNode]) -> List[int]:
         result = []
+        stack = []
+        current = root
 
-        def dfs(node):
-            if not node:
-                return
-            dfs(node.left)          # Visit left subtree
-            result.append(node.val) # Visit current node
-            dfs(node.right)         # Visit right subtree
+        # Loop until all nodes are processed
+        while current or stack:
+            # Reach leftmost node
+            while current:
+                stack.append(current)
+                current = current.left
 
-        dfs(root)
+            # Visit node
+            current = stack.pop()
+            result.append(current.val)
+
+            # Traverse right subtree
+            current = current.right
+
         return result
-        
