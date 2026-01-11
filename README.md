@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0014-longest-common-prefix](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0049-group-anagrams](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0217-contains-duplicate) |
 | [2350-find-closest-number-to-zero](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/2350-find-closest-number-to-zero) |
@@ -28,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0242-valid-anagram) |
@@ -36,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0242-valid-anagram) |
@@ -84,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0242-valid-anagram) |
 | [0782-jewels-and-stones](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0782-jewels-and-stones) |
