@@ -150,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0338-counting-bits](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0338-counting-bits) |
 ## Binary Search
 |  |
 | ------- |
@@ -191,4 +192,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
