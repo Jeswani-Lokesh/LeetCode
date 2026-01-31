@@ -1,23 +1,33 @@
 class Solution:
     def isValid(self, s: str) -> bool:
-        # Dictionary to map opening to corresponding closing brackets
-        bracket_map = {
-            '(': ')',
-            '{': '}',
-            '[': ']'
+        # Stack to store opening brackets
+        stack = []
+
+        # Dictionary to match closing brackets to opening brackets
+        matching = {
+            ')': '(',
+            ']': '[',
+            '}': '{'
         }
 
-        stack = []  # Stack to hold expected closing brackets
-
+        # Loop through each character in the string
         for char in s:
-            if char in bracket_map:
-                # It's an opening bracket → push expected closing
-                stack.append(bracket_map[char])
+            # If character is an opening bracket
+            if char in matching.values():
+                # Push it onto the stack
+                stack.append(char)
             else:
-                # It's a closing bracket
-                if not stack or stack[-1] != char:
-                    return False  # Either unmatched or wrong order
-                stack.pop()  # Matched correctly, pop from stack
+                # If stack is empty, there is no opening bracket to match
+                if not stack:
+                    return False
+
+                # Pop the last opening bracket
+                top = stack.pop()
+
+                # Check if it matches the current closing bracket
+                if top != matching[char]:
+                    return False
 
         # If stack is empty, all brackets matched correctly
-        return not stack
+        return len(stack) == 0
+        
