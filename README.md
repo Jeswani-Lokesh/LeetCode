@@ -147,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0066-plus-one](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0189-rotate-array) |
 ## Two Pointers
 |  |
@@ -198,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0070-climbing-stairs](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0392-is-subsequence) |
@@ -287,4 +289,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
