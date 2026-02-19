@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
@@ -258,6 +259,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0338-counting-bits) |
