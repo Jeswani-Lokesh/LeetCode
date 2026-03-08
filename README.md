@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0175-combine-two-tables) |
+| [0177-nth-highest-salary](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0177-nth-highest-salary) |
 | [0183-customers-who-never-order](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0183-customers-who-never-order) |
 | [0196-delete-duplicate-emails](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0196-delete-duplicate-emails) |
 | [0584-find-customer-referee](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0584-find-customer-referee) |
