@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0217-contains-duplicate) |
+| [0274-h-index](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [2350-find-closest-number-to-zero](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/2350-find-closest-number-to-zero) |
 ## Hash Table
@@ -79,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0242-valid-anagram) |
+| [0274-h-index](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Tree
 |  |
@@ -337,4 +339,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0070-climbing-stairs) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
