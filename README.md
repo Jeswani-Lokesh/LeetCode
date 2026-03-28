@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0217-contains-duplicate) |
 | [0274-h-index](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [2350-find-closest-number-to-zero](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/2350-find-closest-number-to-zero) |
 ## Hash Table
 |  |
@@ -69,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0383-ransom-note) |
 | [0782-jewels-and-stones](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0782-jewels-and-stones) |
 ## Sorting
@@ -180,6 +182,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0172-factorial-trailing-zeroes](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0202-happy-number) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Two Pointers
 |  |
 | ------- |
@@ -315,6 +318,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0146-lru-cache) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -343,4 +347,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0274-h-index](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0274-h-index) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
