@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1517-find-users-with-valid-e-mails](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/1517-find-users-with-valid-e-mails) |
 | [1527-patients-with-a-condition](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/1527-patients-with-a-condition) |
 | [1667-fix-names-in-a-table](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/1667-fix-names-in-a-table) |
+| [1741-find-total-time-spent-by-each-employee](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/1741-find-total-time-spent-by-each-employee) |
 | [1795-rearrange-products-table](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/1795-rearrange-products-table) |
 | [1873-calculate-special-bonus](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/1873-calculate-special-bonus) |
 | [1907-count-salary-categories](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/1907-count-salary-categories) |
