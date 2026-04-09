@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0176-second-highest-salary](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0176-second-highest-salary) |
 | [0177-nth-highest-salary](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0177-nth-highest-salary) |
 | [0183-customers-who-never-order](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0183-customers-who-never-order) |
+| [0184-department-highest-salary](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0184-department-highest-salary) |
 | [0196-delete-duplicate-emails](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0196-delete-duplicate-emails) |
 | [0584-find-customer-referee](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0595-big-countries) |
