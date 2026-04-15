@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1873-calculate-special-bonus](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/1873-calculate-special-bonus) |
 | [1907-count-salary-categories](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/1907-count-salary-categories) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
+| [1934-confirmation-rate](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/1934-confirmation-rate) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Array
 |  |
