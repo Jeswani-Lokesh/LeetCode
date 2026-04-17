@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0584-find-customer-referee](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0596-classes-with-at-least-5-students) |
+| [0620-not-boring-movies](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0620-not-boring-movies) |
 | [1068-product-sales-analysis-i](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/1068-product-sales-analysis-i) |
 | [1258-article-views-i](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/1258-article-views-i) |
 | [1280-students-and-examinations](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/1280-students-and-examinations) |
