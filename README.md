@@ -106,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0909-snakes-and-ladders](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0909-snakes-and-ladders) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [2350-find-closest-number-to-zero](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/2350-find-closest-number-to-zero) |
 ## Hash Table
 |  |
