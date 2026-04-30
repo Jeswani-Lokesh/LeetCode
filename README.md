@@ -234,6 +234,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0345-reverse-vowels-of-a-string](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0392-is-subsequence) |
+| [0443-string-compression](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0443-string-compression) |
 | [0782-jewels-and-stones](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0782-jewels-and-stones) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/1768-merge-strings-alternately) |
@@ -274,6 +275,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0202-happy-number](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0202-happy-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0392-is-subsequence) |
+| [0443-string-compression](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0443-string-compression) |
 | [1768-merge-strings-alternately](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/1768-merge-strings-alternately) |
 ## Stack
 |  |
