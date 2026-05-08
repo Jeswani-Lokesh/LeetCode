@@ -119,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1732-find-the-highest-altitude](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2350-find-closest-number-to-zero](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/2350-find-closest-number-to-zero) |
+| [2352-equal-row-and-column-pairs](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -147,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1657-determine-if-two-strings-are-close](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2352-equal-row-and-column-pairs](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -447,6 +449,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0067-add-binary) |
+| [2352-equal-row-and-column-pairs](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -472,6 +475,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0036-valid-sudoku](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0036-valid-sudoku) |
 | [0909-snakes-and-ladders](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0909-snakes-and-ladders) |
+| [2352-equal-row-and-column-pairs](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
 ## Merge Sort
 |  |
 | ------- |
