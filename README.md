@@ -440,6 +440,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0146-lru-cache](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0155-min-stack) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0933-number-of-recent-calls](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0933-number-of-recent-calls) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -489,4 +490,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0148-sort-list) |
+## Queue
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0933-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
