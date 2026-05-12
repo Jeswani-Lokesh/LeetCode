@@ -302,6 +302,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0443-string-compression](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0443-string-compression) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/1768-merge-strings-alternately) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Stack
 |  |
 | ------- |
@@ -324,6 +325,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0146-lru-cache](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0206-reverse-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Trie
 |  |
 | ------- |
