@@ -185,6 +185,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0572-subtree-of-another-tree](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0872-leaf-similar-trees) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -204,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0572-subtree-of-another-tree](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0872-leaf-similar-trees) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -238,6 +240,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0572-subtree-of-another-tree](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0872-leaf-similar-trees) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## String
 |  |
@@ -372,6 +375,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0338-counting-bits](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0392-is-subsequence) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Binary Search
 |  |
