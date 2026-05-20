@@ -186,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0572-subtree-of-another-tree](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0872-leaf-similar-trees](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0872-leaf-similar-trees) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
@@ -249,6 +250,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0572-subtree-of-another-tree](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0872-leaf-similar-trees](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0872-leaf-similar-trees) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
@@ -443,6 +445,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 ## Union-Find
 |  |
 | ------- |
