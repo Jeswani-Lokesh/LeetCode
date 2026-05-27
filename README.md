@@ -118,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/1732-find-the-highest-altitude) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2350-find-closest-number-to-zero](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/2350-find-closest-number-to-zero) |
 | [2352-equal-row-and-column-pairs](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
@@ -236,6 +237,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 ## Binary Tree
 |  |
 | ------- |
@@ -534,6 +536,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0036-valid-sudoku](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0036-valid-sudoku) |
 | [0909-snakes-and-ladders](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0909-snakes-and-ladders) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2352-equal-row-and-column-pairs](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
 ## Merge Sort
 |  |
