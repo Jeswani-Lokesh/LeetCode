@@ -124,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2215-find-the-difference-of-two-arrays](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2350-find-closest-number-to-zero](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/2350-find-closest-number-to-zero) |
 | [2352-equal-row-and-column-pairs](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
+| [2542-maximum-subsequence-score](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/2542-maximum-subsequence-score) |
 ## Hash Table
 |  |
 | ------- |
@@ -169,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2542-maximum-subsequence-score](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/2542-maximum-subsequence-score) |
 ## Tree
 |  |
 | ------- |
@@ -431,6 +433,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [2542-maximum-subsequence-score](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/2542-maximum-subsequence-score) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -489,6 +492,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0334-increasing-triplet-subsequence](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0605-can-place-flowers) |
 | [0649-dota2-senate](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0649-dota2-senate) |
+| [2542-maximum-subsequence-score](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/2542-maximum-subsequence-score) |
 ## Design
 |  |
 | ------- |
