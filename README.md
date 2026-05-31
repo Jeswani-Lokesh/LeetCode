@@ -122,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1732-find-the-highest-altitude](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2350-find-closest-number-to-zero](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/2350-find-closest-number-to-zero) |
 | [2352-equal-row-and-column-pairs](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/2462-total-cost-to-hire-k-workers) |
@@ -171,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2542-maximum-subsequence-score](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/2542-maximum-subsequence-score) |
 ## Tree
 |  |
@@ -347,6 +349,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1768-merge-strings-alternately](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/2462-total-cost-to-hire-k-workers) |
 ## Stack
 |  |
@@ -419,6 +422,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0222-count-complete-tree-nodes](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0374-guess-number-higher-or-lower](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [1004-max-consecutive-ones-iii](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Divide and Conquer
 |  |
 | ------- |
