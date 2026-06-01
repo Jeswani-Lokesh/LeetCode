@@ -94,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0128-longest-consecutive-sequence](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0136-single-number) |
+| [0162-find-peak-element](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0189-rotate-array) |
@@ -417,6 +418,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0004-median-of-two-sorted-arrays](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0069-sqrtx) |
+| [0162-find-peak-element](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0222-count-complete-tree-nodes) |
