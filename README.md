@@ -321,6 +321,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0009-palindrome-number](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0013-roman-to-integer) |
+| [0062-unique-paths](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0069-sqrtx) |
@@ -412,6 +413,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0045-jump-game-ii](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -596,4 +598,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0216-combination-sum-iii](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0216-combination-sum-iii) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
