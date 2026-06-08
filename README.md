@@ -511,6 +511,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0191-number-of-1-bits](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0338-counting-bits](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0338-counting-bits) |
+| [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 ## Greedy
 |  |
 | ------- |
