@@ -118,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0724-find-pivot-index](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0875-koko-eating-bananas](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0909-snakes-and-ladders](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0909-snakes-and-ladders) |
@@ -383,6 +384,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0155-min-stack](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0155-min-stack) |
 | [0394-decode-string](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0739-daily-temperatures) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 ## Linked List
@@ -627,4 +629,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0062-unique-paths) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
