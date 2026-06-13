@@ -385,6 +385,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0394-decode-string](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0901-online-stock-span) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 ## Linked List
@@ -550,6 +551,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0155-min-stack](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0901-online-stock-span](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0933-number-of-recent-calls) |
 ## Doubly-Linked List
 |  |
@@ -615,6 +617,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Data Stream
 |  |
 | ------- |
+| [0901-online-stock-span](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0933-number-of-recent-calls) |
 ## Interactive
 |  |
@@ -633,4 +636,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
