@@ -76,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0035-search-insert-position) |
@@ -174,6 +175,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -355,6 +357,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
