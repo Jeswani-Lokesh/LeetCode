@@ -99,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0039-combination-sum](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0039-combination-sum) |
 | [0045-jump-game-ii](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0066-plus-one) |
@@ -598,6 +599,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0067-add-binary) |
 | [0735-asteroid-collision](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0735-asteroid-collision) |
 | [2352-equal-row-and-column-pairs](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
@@ -628,6 +630,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0036-valid-sudoku) |
+| [0054-spiral-matrix](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0054-spiral-matrix) |
 | [0909-snakes-and-ladders](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0909-snakes-and-ladders) |
 | [0994-rotting-oranges](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0994-rotting-oranges) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
