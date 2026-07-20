@@ -103,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0054-spiral-matrix](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0056-merge-intervals) |
+| [0064-minimum-path-sum](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -463,6 +464,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0045-jump-game-ii](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0062-unique-paths) |
+| [0064-minimum-path-sum](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -638,6 +640,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0036-valid-sudoku](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0054-spiral-matrix) |
+| [0064-minimum-path-sum](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0909-snakes-and-ladders](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0909-snakes-and-ladders) |
 | [0994-rotting-oranges](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0994-rotting-oranges) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
