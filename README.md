@@ -83,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 | [3220-odd-and-even-transactions](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/3220-odd-and-even-transactions) |
 | [3421-find-students-who-improved](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/3421-find-students-who-improved) |
+| [3436-find-valid-emails](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/3436-find-valid-emails) |
 ## Array
 |  |
 | ------- |
