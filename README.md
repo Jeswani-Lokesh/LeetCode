@@ -283,6 +283,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0199-binary-tree-right-side-view](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0279-perfect-squares](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0322-coin-change) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0547-number-of-provinces) |
@@ -379,6 +380,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0172-factorial-trailing-zeroes](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0202-happy-number) |
+| [0279-perfect-squares](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0279-perfect-squares) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/1137-n-th-tribonacci-number) |
@@ -483,6 +485,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0139-word-break](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0198-house-robber) |
+| [0279-perfect-squares](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0392-is-subsequence) |
