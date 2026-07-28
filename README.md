@@ -193,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0383-ransom-note) |
+| [0763-partition-labels](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0763-partition-labels) |
 | [0782-jewels-and-stones](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0782-jewels-and-stones) |
 | [1207-unique-number-of-occurrences](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/1657-determine-if-two-strings-are-close) |
@@ -359,6 +360,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0394-decode-string](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0443-string-compression) |
 | [0649-dota2-senate](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0649-dota2-senate) |
+| [0763-partition-labels](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0763-partition-labels) |
 | [0782-jewels-and-stones](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0782-jewels-and-stones) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1143-longest-common-subsequence](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/1143-longest-common-subsequence) |
@@ -413,6 +415,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0345-reverse-vowels-of-a-string](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0443-string-compression) |
+| [0763-partition-labels](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0763-partition-labels) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -604,6 +607,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0605-can-place-flowers](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0605-can-place-flowers) |
 | [0649-dota2-senate](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0649-dota2-senate) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0763-partition-labels](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0763-partition-labels) |
 | [2542-maximum-subsequence-score](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/2542-maximum-subsequence-score) |
 ## Design
 |  |
