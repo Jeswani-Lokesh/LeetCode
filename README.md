@@ -142,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0416-partition-equal-subset-sum](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0560-subarray-sum-equals-k](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -193,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0383-ransom-note) |
+| [0560-subarray-sum-equals-k](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0763-partition-labels](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0763-partition-labels) |
 | [0782-jewels-and-stones](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0782-jewels-and-stones) |
 | [1207-unique-number-of-occurrences](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/1207-unique-number-of-occurrences) |
@@ -647,6 +649,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1732-find-the-highest-altitude](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/1732-find-the-highest-altitude) |
