@@ -302,6 +302,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0210-course-schedule-ii) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0226-invert-binary-tree](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -410,6 +411,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0151-reverse-words-in-a-string](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0242-valid-anagram](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -540,6 +542,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0014-longest-common-prefix](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [1268-search-suggestions-system](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/1268-search-suggestions-system) |
 ## Recursion
 |  |
@@ -712,6 +715,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0155-min-stack](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0901-online-stock-span](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0933-number-of-recent-calls) |
