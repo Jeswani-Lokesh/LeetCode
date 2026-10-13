@@ -152,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0322-coin-change](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0322-coin-change) |
 | [0334-increasing-triplet-subsequence](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0416-partition-equal-subset-sum](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0427-construct-quad-tree](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0427-construct-quad-tree) |
@@ -642,6 +643,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [1268-search-suggestions-system](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/1268-search-suggestions-system) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/Jeswani-Lokesh/LeetCode/tree/master/2542-maximum-subsequence-score) |
